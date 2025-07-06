@@ -51,9 +51,20 @@ Or alternatively, use the provided requirements.txt file:
 pip install -r requirements.txt
 ```
 
-## Step 5: Run the Script
+## Step 5: Run the Scripts
 Run the script to fetch APR values:
 
+### Monthly Payment 
 ```bash
-python fetch_aprs.py
+python monthlypayment.py
+```
+
+### Scrape APR values for $WETH and $USDC from Euler and Katana on Ethereum Mainnet.
+```bash
+python turtleAprScraper.py
+python eulerAprScraper.py
+```
+### Run the Agent
+```bash
+python agent.py
 ```
