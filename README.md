@@ -6,7 +6,7 @@ APR aggregator project for Ethereum Global Cannes
 
 # 🛠️ Installation Guide
 
-Follow these steps to set up and run the APR Data Logger project on your local machine.
+Follow these steps to set up and run the APR Aggregator Logger Assistant project on your local machine.
 
 ---
 
